@@ -1,16 +1,14 @@
-![Repo-Image](https://druffko.gg/github-images/aptivy-desktop.png)
-
 <div align="center">
 
-![GitHub release (latest by date including pre-releases)](https://img.shields.io/github/v/release/druffko/aptivy-desktop?include_prereleases)
+![GitHub release (latest by date including pre-releases)](https://img.shields.io/github/v/release/massimo-rnd/aptivy-desktop?include_prereleases)
 
-![GitHub last commit](https://img.shields.io/github/last-commit/druffko/aptivy-desktop)
+![GitHub last commit](https://img.shields.io/github/last-commit/massimo-rnd/aptivy-desktop)
 
   <br>
 
-  ![GitHub All Releases](https://img.shields.io/github/downloads/druffko/aptivy-desktop/total)
-  ![GitHub closed issues](https://img.shields.io/github/issues-closed/druffko/aptivy-desktop)
-  ![GitHub issues](https://img.shields.io/github/issues/druffko/aptivy-desktop)
+  ![GitHub All Releases](https://img.shields.io/github/downloads/massimo-rnd/aptivy-desktop/total)
+  ![GitHub closed issues](https://img.shields.io/github/issues-closed/massimo-rnd/aptivy-desktop)
+  ![GitHub issues](https://img.shields.io/github/issues/massimo-rnd/aptivy-desktop)
   
   <h1>Aptivy Desktop</h1>
   <p>
@@ -233,8 +231,8 @@ This project is licensed under the [MIT License](LICENSE).
 
 ## Contact
 
-- **druffko** - [@druffko](https://twitter.com/druffko) - hi@druffko.gg
-- **Project Link** - https://github.com/druffko/aptivy-desktop
+- **massimo-rnd** - [@massimo_rnd](https://x.com/massimo_rnd) - hi@massimo.gg
+- **Project Link** - https://github.com/massimo-rnd/aptivy-desktop
 
 Feel free to reach out if you have any questions or suggestions!
 
